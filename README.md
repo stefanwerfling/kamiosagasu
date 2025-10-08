@@ -22,7 +22,7 @@ This enables not only fast keyword search but also **semantic understanding** an
 
 - **OCR** – Tesseract / PaddleOCR (configurable)  
 - **LLM Integration** – LocalAI / Ollama / OpenAI compatible models  
-- **Database** – Full-text index via PostgreSQL, SQLite FTS, or ChromaDB  
+- **Database** – Full-text index via PostgreSQL,Elasticsearch or ChromaDB  
 - **Backend** – Node.js / TypeScript with modular service structure  
 - **Security** – Encrypted storage and sandboxed AI access  
 
